@@ -1,3 +1,5 @@
+# 💫 About Me:
+🌿 Amante de la Naturaleza: Mi amor por la naturaleza me inspira a ser un defensor activo del medio ambiente y a buscar soluciones sostenibles en mi trabajo diario.<br><br>🌵 Cactus y Suculentas: Los cactus y suculentas son mi obsesión. Mi colección personal está en constante crecimiento, y he descubierto que su resistencia y adaptabilidad se asemejan al mundo del desarrollo web.<br><br>💻 Desarrollador Back End y Front End: Tengo experiencia tanto en el desarrollo del lado del cliente como del servidor. Disfruto creando aplicaciones web que sean tanto funcionales como visualmente atractivas.<br><br>📚 Aprendizaje Constante: Creo firmemente en la importancia del aprendizaje continuo. Siempre estoy investigando nuevas tecnologías y técnicas para mantenerme al tanto de las últimas tendencias en desarrollo web.<br><br>Mis Intereses:<br><br>🌐 Desarrollo Web Front End y Back End<br>🌱 Sostenibilidad y Tecnología Verde<br>🎨 Diseño de Experiencia de Usuario<br>🌍 Soluciones para un Mundo Mejor
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegohans96@gmail.com) 
