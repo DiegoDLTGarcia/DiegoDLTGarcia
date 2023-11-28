@@ -1,14 +1,14 @@
 # 🚀 Sobre Mí:
-🌿 Amante de la Naturaleza: Defensor activo del medio ambiente en mi trabajo diario, inspirado por la naturaleza.
-🌵 Cactus y Suculentas: Obsesionado con su resistencia, reflejo de mi mundo en desarrollo web.
-💻 Desarrollador Full Stack: Experiencia en desarrollo cliente-servidor, creando aplicaciones web funcionales y atractivas.
-📚 Aprendizaje Constante: Firme creyente en el aprendizaje continuo, explorando nuevas tecnologías y tendencias.
+🌿 Amante de la Naturaleza: Defensor activo del medio ambiente en mi trabajo diario, inspirado por la naturaleza.<br><br>
+🌵 Cactus y Suculentas: Obsesionado con su resistencia, reflejo de mi mundo en desarrollo web.<br><br>
+💻 Desarrollador Full Stack: Experiencia en desarrollo cliente-servidor, creando aplicaciones web funcionales y atractivas.<br><br>
+📚 Aprendizaje Constante: Firme creyente en el aprendizaje continuo, explorando nuevas tecnologías y tendencias.<br><br>
 
 Mis Intereses:
-🌐 Desarrollo Web Front End y Back End
-🌱 Sostenibilidad y Tecnología Verde
-🎨 Diseño de Experiencia de Usuario
-🌍 Soluciones para un Mundo Mejor
+🌐 Desarrollo Web Front End y Back End<br><br>
+🌱 Sostenibilidad y Tecnología Verde<br><br>
+🎨 Diseño de Experiencia de Usuario<br><br>
+🌍 Soluciones para un Mundo Mejor<br><br>
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegohans96@gmail.com) 
