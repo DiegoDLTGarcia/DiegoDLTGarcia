@@ -4,7 +4,7 @@
 💻 Desarrollador Full Stack: Experiencia en desarrollo cliente-servidor, creando aplicaciones web funcionales y atractivas.<br><br>
 📚 Aprendizaje Constante: Firme creyente en el aprendizaje continuo, explorando nuevas tecnologías y tendencias.<br><br>
 
-Mis Intereses:<br><br>
+# Mis Intereses:
 🌐 Desarrollo Web Front End y Back End<br><br>
 🌱 Sostenibilidad y Tecnología Verde<br><br>
 🎨 Diseño de Experiencia de Usuario<br><br>
