@@ -1,20 +1,34 @@
-# 🚀 Sobre Mí:
-🌿 Amante de la Naturaleza: Defensor activo del medio ambiente en mi trabajo diario, inspirado por la naturaleza.<br><br>
-🌵 Cactus y Suculentas: Obsesionado con su resistencia, reflejo de mi mundo en desarrollo web.<br><br>
-💻 Desarrollador Full Stack: Experiencia en desarrollo cliente-servidor, creando aplicaciones web funcionales y atractivas.<br><br>
-📚 Aprendizaje Constante: Firme creyente en el aprendizaje continuo, explorando nuevas tecnologías y tendencias.<br><br>
+# 🚀 **Sobre Mí**
+```typescript
+const Diego = {
+  pasión: "🌿 Naturaleza y Medio Ambiente",
+  inspiración: "Cactus 🌵 y Suculentas - resiliencia reflejada en el desarrollo web",
+  rol: "💻 Full Stack Developer",
+  filosofía: "📚 Aprendizaje Continuo"
+};
 
-# Mis Intereses:
-🌐 Desarrollo Web Front End y Back End<br><br>
-🌱 Sostenibilidad y Tecnología Verde<br><br>
-🎨 Diseño de Experiencia de Usuario<br><br>
-🌍 Soluciones para un Mundo Mejor<br><br>
+
+// Áreas de enfoque
+public class Intereses {
+    public string FrontEnd = "Desarrollo Web";
+    public string BackEnd = "Arquitectura de Sistemas";
+    public string EcoTech = "Tecnología Verde";
+    public string UX = "Diseño de Experiencia de Usuario";
+    public string Impacto = "Soluciones para un Mundo Mejor";
+}
+
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-raúl-de-la-torre-garcía-5a9b60164) 
 
-# 💻 Tecnologías:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+// Stack Tecnológico
+public class StackTecnologico {
+    String[] frontEnd = {"HTML5", "CSS3", "JavaScript", "Angular", "Bootstrap", "jQuery"};
+    String[] backEnd = {"PHP", "Java", ".NET"};
+    String[] cloud = {"AWS", "Azure"};
+    String[] dataBases = {"MariaDB", "MySQL", "Microsoft SQL Server"};
+}
+
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=DiegoDLTGarcia&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
