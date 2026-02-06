@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Diego De La Torre</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Diego De La Torre</b> <img src="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn" width="35"></h1>
 
 <img align="right" width="300px" alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
