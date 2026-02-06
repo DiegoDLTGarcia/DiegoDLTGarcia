@@ -33,15 +33,10 @@ I build **enterprise-grade solutions** with **.NET**, **SQL Server**, and **Powe
 
 ---
 
-## 🧰 Tech Stack Icons
+## 📌 Top Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sql,docker,git,github,postman" />
 </p>
-
----
-
-## 📌 Top Languages
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)" />
 
 ---
 
