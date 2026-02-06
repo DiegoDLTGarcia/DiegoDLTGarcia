@@ -41,7 +41,7 @@ I build **enterprise-grade solutions** with **.NET**, **SQL Server**, and **Powe
 ---
 
 ## 📌 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)" />
 
 ---
 
