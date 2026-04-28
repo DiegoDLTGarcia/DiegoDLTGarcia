@@ -1,77 +1,208 @@
-<h1 align="center"><b>Hi, I'm Diego De La Torre</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Aquí tienes un README más profesional, moderno y visual, listo para copiar y pegar. Solo reemplaza `YOUR_GITHUB_USERNAME` y el placeholder de LinkedIn si quieres activarlo.
 
-<img align="right" width="300px" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBqcDVieGN1b3g2YmV1dG9uNnk2cDh3bzlneWN2c3l4NzdjbGV1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+```markdown
+<!-- Profile README | Diego De La Torre -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<div align="center">
 
-I’m a **Full Stack Developer** with strong focus on **.NET 8 / C#**, **SQL Server**, and **Power BI (DAX)**.  
-I build and modernize enterprise systems: **APIs**, **data pipelines (ETL)**, dashboards, and **Salesforce integrations (Composite Graph API)**.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=512BD4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Diego+De+La+Torre;Full+Stack+Developer+%7C+.NET+Specialist;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
-- 🔧 I’m currently working on **.NET 8 migrations**, APIs and enterprise integrations
-- 📊 Building **Power BI dashboards** and improving SQL performance (CTEs, views, SPs)
-- 🔁 **Salesforce Composite Graph API**: batch processing, concurrency, error handling & logs
-- 🧩 Frontend with **Angular (17/18)** + **PrimeNG / PrimeFlex**
-- 🛡️ Security/DevOps: **Docker** + vulnerability scanning with **Snyk**
-- ✔ Ask me about anything related to **.NET, SQL, Power BI, Angular, Salesforce integrations**
-- Outside tech, 🎮 I like gaming/streaming, 🧠 learning new tools, and 🎨 creating 3D/design projects
-- 📫 Reach out to me at: <a href="mailto:diegohans96@gmail.com">diegohans96@gmail.com</a>
+  <p>
+    <strong>Full Stack Developer specialized in .NET, enterprise APIs, SQL Server, Angular and data-driven systems.</strong>
+  </p>
 
-<br>
+  <p>
+    <a href="mailto:diegohans96@gmail.com">
+      <img src="https://img.shields.io/badge/Email-diegohans96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-Diego%20De%20La%20Torre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
-## My Skills Include
+</div>
 
-<h4> Languages </h4>
-<span>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</span>
+---
 
-<h4> Frameworks / Tools </h4>
-<span>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
-  <img src="https://img.shields.io/badge/REST%20API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</span>
+<img align="right" width="310" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" />
 
-<br>
+## About Me
 
-## GitHub Stats
+I’m a **Full Stack Developer** focused on building and modernizing **enterprise-grade software** using **.NET 8, C#, SQL Server and Angular**.
+
+My work combines backend architecture, API integrations, data processing and frontend development to deliver reliable, scalable and maintainable business systems.
+
+- Build and maintain **REST APIs** with **ASP.NET Core / .NET 8**
+- Design SQL solutions using **stored procedures, views, CTEs and performance tuning**
+- Develop enterprise frontend applications with **Angular 17/18, TypeScript and PrimeNG**
+- Create data workflows, **ETL processes** and business dashboards with **Power BI**
+- Integrate enterprise platforms using **Salesforce Composite Graph API**
+- Work with **Docker, Snyk, Git and secure development practices**
+- Participate in **.NET migrations**, modernization and microservice-oriented architectures
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
+
+### Backend
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide=issues&theme=default" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
+
+### Frontend
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=default" />
+  <img src="https://img.shields.io/badge/Angular%2017%2F18-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PrimeNG-0F4C81?style=for-the-badge&logo=primefaces&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeFlex-38BDF8?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<br>
+### Database & Data
 
-## Check out my Social Media
-<a href="mailto:diegohans96@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-diegohans96%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-</a>
-<!-- Opcional: agrega aquí tus links reales -->
-<!--
-<a href="TU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Diego%20Garcia-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-<a href="TU_TIKTOK">
-  <img src="https://img.shields.io/badge/TikTok-@tuuser-000000?style=for-the-badge&logo=TikTok&logoColor=white">
-</a>
-<a href="TU_TWITCH">
-  <img src="https://img.shields.io/badge/Twitch-tuuser-9347FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
-<a href="TU_YOUTUBE">
-  <img src="https://img.shields.io/badge/YouTube-tu%20canal-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">
-</a>
--->
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-1E293B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Enterprise Integrations & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composite%20Graph%20API-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Enterprise REST API Platform</h3>
+      <p>
+        Scalable backend API architecture for business workflows, authentication, SQL operations and service-based integrations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Salesforce Composite Graph Integration</h3>
+      <p>
+        Enterprise integration layer using Salesforce Composite Graph API with batch processing, error tracking and structured logs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+        <img src="https://img.shields.io/badge/API%20Integration-111827?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Power BI Business Dashboards</h3>
+      <p>
+        Data models and dashboards focused on operational visibility, KPIs, executive reporting and decision support.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Angular Enterprise UI</h3>
+      <p>
+        Modern frontend applications with reusable components, responsive layouts and API-driven business workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PrimeNG-0F4C81?style=flat-square&logo=primefaces&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I’m Working On
+
+- Migrating and modernizing enterprise applications to **.NET 8**
+- Improving **SQL Server performance** through query optimization and better data modeling
+- Building secure and scalable **REST APIs**
+- Designing reliable **Salesforce integrations** for complex business processes
+- Creating **Power BI dashboards** connected to real operational data
+- Strengthening code quality with **Docker, Snyk and secure development workflows**
+
+---
+
+## Dev Focus
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,docker,git,github,visualstudio,vscode" alt="Dev icons" />
+
+</div>
+
+---
+
+## Contact
+
+<p>
+  <a href="mailto:diegohans96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-diegohans96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+  <strong>Building scalable enterprise systems with clean architecture, reliable APIs and data-driven decisions.</strong>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=512BD4" alt="Profile views" />
+
+</div>
+```
