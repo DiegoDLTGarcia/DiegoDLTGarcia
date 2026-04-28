@@ -1,8 +1,8 @@
-<!-- Profile README | Diego De La Torre -->
+<!-- GitHub Profile README | Diego De La Torre -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=512BD4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Diego+De+La+Torre;Full+Stack+Developer+%7C+.NET+Specialist;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Diego+De+La+Torre;Full+Stack+Developer+%7C+.NET+Specialist;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
   <p>
     <strong>Full Stack Developer specialized in .NET, enterprise APIs, SQL Server, Angular and data-driven systems.</strong>
@@ -12,7 +12,7 @@
     <a href="mailto:diegohans96@gmail.com">
       <img src="https://img.shields.io/badge/Email-diegohans96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/diego-ra%C3%BAl-de-la-torre-garc%C3%ADa-5a9b60164/">
       <img src="https://img.shields.io/badge/LinkedIn-Diego%20De%20La%20Torre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
@@ -21,13 +21,13 @@
 
 ---
 
-<img align="right" width="310" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" />
-
 ## About Me
 
-I’m a **Full Stack Developer** focused on building and modernizing **enterprise-grade software** using **.NET 8, C#, SQL Server and Angular**.
+<img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" />
 
-My work combines backend architecture, API integrations, data processing and frontend development to deliver reliable, scalable and maintainable business systems.
+I’m a **Full Stack Developer** focused on building, integrating and modernizing **enterprise-grade software** using **.NET 8, C#, SQL Server and Angular**.
+
+My work connects backend architecture, data processing, API integrations and frontend development to deliver reliable, scalable and maintainable business solutions.
 
 - Build and maintain **REST APIs** with **ASP.NET Core / .NET 8**
 - Design SQL solutions using **stored procedures, views, CTEs and performance tuning**
@@ -50,8 +50,7 @@ My work combines backend architecture, API integrations, data processing and fro
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### Frontend
@@ -92,13 +91,13 @@ My work combines backend architecture, API integrations, data processing and fro
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DiegoDLTGarcia&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=DiegoDLTGarcia&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -122,7 +121,7 @@ My work combines backend architecture, API integrations, data processing and fro
     <td width="50%">
       <h3>Salesforce Composite Graph Integration</h3>
       <p>
-        Enterprise integration layer using Salesforce Composite Graph API with batch processing, error tracking and structured logs.
+        Enterprise integration layer using Salesforce Composite Graph API with batch processing, concurrency handling, error tracking and structured logs.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
@@ -174,7 +173,7 @@ My work combines backend architecture, API integrations, data processing and fro
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,docker,git,github,visualstudio,vscode" alt="Dev icons" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,docker,git,github,visualstudio,vscode,postman" alt="Dev icons" />
 
 </div>
 
@@ -182,11 +181,11 @@ My work combines backend architecture, API integrations, data processing and fro
 
 ## Contact
 
-<p>
+<p align="center">
   <a href="mailto:diegohans96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-diegohans96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/diego-ra%C3%BAl-de-la-torre-garc%C3%ADa-5a9b60164/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -199,7 +198,7 @@ My work combines backend architecture, API integrations, data processing and fro
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=512BD4" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DiegoDLTGarcia&style=for-the-badge&color=7C3AED" alt="Profile views" />
 
 </div>
 ```
