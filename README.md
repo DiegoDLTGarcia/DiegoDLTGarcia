@@ -1,6 +1,3 @@
-Aquí tienes un README más profesional, moderno y visual, listo para copiar y pegar. Solo reemplaza `YOUR_GITHUB_USERNAME` y el placeholder de LinkedIn si quieres activarlo.
-
-```markdown
 <!-- Profile README | Diego De La Torre -->
 
 <div align="center">
