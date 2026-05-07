@@ -91,9 +91,9 @@ My work connects backend architecture, data processing, API integrations and fro
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DiegoDLTGarcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoDLTGarcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
 
