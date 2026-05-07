@@ -91,8 +91,6 @@ My work connects backend architecture, data processing, API integrations and fro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDLTGarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=ChatHilos,mybloggg.github.io,blogpelican.github.io,git_Hello_Git" />
-
   <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=DiegoDLTGarcia&theme=tokyonight&hide_border=true" />
